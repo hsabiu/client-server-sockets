@@ -1,7 +1,4 @@
-﻿//NAME: HABIB ADO SABIU
-//NSID: has956
-//STUDENT NUMBER: 11198210
-//ASSIGNMENT 1: CLIENT
+﻿//AUTHOR: HABIB ADO SABIU
 
 using System;
 using System.Collections.Generic;
