@@ -2,10 +2,11 @@
 This is a client-server chat application implemented using Java and C#. The Server is implemented using Java while the client is is implemented using C#. The connection between clients and server use TCP Sockets.
 
 # Compile and run
-  * Server: from the project root directory, open the terminal and run the following comands:
+**Server:** from the project root directory, open the terminal and run the following comands:
       mkdir bin
       javac src/Server.java -d bin/
-  * Client: create an executable file from the **src/ChatClientGUI** C# project. 
+
+**Client:** create an executable file from the **src/ChatClientGUI** C# project. 
 
 Start the server by running the following command:
 
