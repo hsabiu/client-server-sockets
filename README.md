@@ -11,7 +11,7 @@ This is a client-server chat application implemented using Java and C#. The Serv
 
 Start the server by running the following command:
 
-      java -cp bin/ Server **(You may have to run this commad with admin privileges)**
+      java -cp bin/ Server (You may have to run this commad with admin privileges)
 
 After the server successfully started, create multiple clients using the ChatClientGUI executable file.
 
