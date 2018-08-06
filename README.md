@@ -3,6 +3,7 @@ This is a client-server chat application implemented using Java and C#. The Serv
 
 # Compile and run
 **Server:** from the project root directory, open the terminal and run the following comands:
+      
       mkdir bin
       javac src/Server.java -d bin/
 
