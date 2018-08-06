@@ -1,18 +1,14 @@
 # Notes
-
-This project is implemented using Java and C#. The Server is implemented in Java while the client is implemented in C#. The connections between clients and server use TCP sockets
+This is a client-server chat application implemented using Java and C#. The Server is implemented using Java while the client is is implemented using C#. The connection between clients and server use TCP Sockets.
 
 # How to run
+The first step to run this application is to compile the **Server.java** class, and create an executable file from the **ChatClientGUI** C# project. 
 
-To run the server, execute the below command in command prompt from the root directory: 
+The next step is to run the server by executing the below command from the directory containing the Server.class file: 
     
 	java Server
 
-To run the cl23ient, double clicked ChatClientGUI.exe
-
-# Testing
-
-To test this project, first start the Server. After the Server has successfully started, create multiple Clients using the ChatClientGUI.
+After the Server has successfully started, create multiple Clients using the ChatClientGUI executable file.
 
 Before a client can connect to the web server, the client has to provide a user name to the server. The server then checks to make sure no any other connected client is using the  same user name. If the user name exist on the server, an error message  is displayed asking the user to choose a different user name. Otherwise, the server register the user to the default 'general' room and inform all the users of this room that a new client is connected. 
 
