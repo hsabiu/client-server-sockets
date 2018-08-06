@@ -1,0 +1,13 @@
+c:\users\has956\documents\visual studio 2015\Projects\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.exe.config
+c:\users\has956\documents\visual studio 2015\Projects\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.exe
+c:\users\has956\documents\visual studio 2015\Projects\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.pdb
+c:\users\has956\documents\visual studio 2015\Projects\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.Properties.Resources.resources
+c:\users\has956\documents\visual studio 2015\Projects\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.csproj.GenerateResource.Cache
+c:\users\has956\documents\visual studio 2015\Projects\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.exe
+c:\users\has956\documents\visual studio 2015\Projects\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.pdb
+c:\users\has956\documents\visual studio 2015\Projects\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.ConnectionGUI.resources
+C:\Users\has956\Documents\Visual Studio 2015\Projects\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.MainForm.resources
+C:\Users\has956\Documents\Visual Studio 2015\Projects\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\has956\Desktop\CMPT842\Assignment_1\ChatClientGUI\ChatClientGUI\bin\Debug\ChatClientGUI.exe.config
+C:\Users\has956\Desktop\CMPT842\Assignment_1\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.exe
+C:\Users\has956\Desktop\CMPT842\Assignment_1\ChatClientGUI\ChatClientGUI\obj\Debug\ChatClientGUI.pdb
