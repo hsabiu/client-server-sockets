@@ -1,0 +1,10 @@
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/bin/Release/ChatClientGUI.exe.config
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/bin/Release/ChatClientGUI.exe
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/bin/Release/ChatClientGUI.pdb
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/obj/Release/ChatClientGUI.ConnectionGUI.resources
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/obj/Release/ChatClientGUI.MainForm.resources
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/obj/Release/ChatClientGUI.Properties.Resources.resources
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/obj/Release/ChatClientGUI.csproj.GenerateResource.cache
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/obj/Release/ChatClientGUI.csproj.CoreCompileInputs.cache
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/obj/Release/ChatClientGUI.exe
+/Users/habib/Desktop/SoftwareDevs/Java/client-server-sockets/src/ChatClientGUI/ChatClientGUI/obj/Release/ChatClientGUI.pdb

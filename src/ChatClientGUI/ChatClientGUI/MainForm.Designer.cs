@@ -69,7 +69,7 @@ namespace ChatClientGUI
             // 
             // btnSend
             // 
-            this.btnSend.Location = new System.Drawing.Point(187, 440);
+            this.btnSend.Location = new System.Drawing.Point(187, 450);
             this.btnSend.Name = "btnSend";
             this.btnSend.Size = new System.Drawing.Size(75, 23);
             this.btnSend.TabIndex = 3;
@@ -79,7 +79,7 @@ namespace ChatClientGUI
             // 
             // btnDisconnect
             // 
-            this.btnDisconnect.Location = new System.Drawing.Point(282, 440);
+            this.btnDisconnect.Location = new System.Drawing.Point(282, 450);
             this.btnDisconnect.Name = "btnDisconnect";
             this.btnDisconnect.Size = new System.Drawing.Size(78, 23);
             this.btnDisconnect.TabIndex = 4;
@@ -92,7 +92,7 @@ namespace ChatClientGUI
             this.AcceptButton = this.btnSend;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(368, 472);
+            this.ClientSize = new System.Drawing.Size(368, 510);
             this.ControlBox = false;
             this.Controls.Add(this.btnDisconnect);
             this.Controls.Add(this.btnSend);

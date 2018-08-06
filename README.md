@@ -7,7 +7,7 @@ This is a client-server chat application implemented using Java and C#. The Serv
       mkdir bin
       javac src/Server.java -d bin/
 
-**Client:** create an executable file from the **src/ChatClientGUI** C# project. 
+**Client:** import the **src/ChatClientGUI** C# project into Microsoft Visual Studio and create an executable file from the project. Alternatively, you can run the ChatClientGUI application from within Visual Studio.
 
 Start the server by running the following command:
 
