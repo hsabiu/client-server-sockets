@@ -1,7 +1,7 @@
 ## Introduction
 This is a client-server chat application implemented using Java and C#. The Server is implemented using Java while the client is is implemented using C#. The connection between clients and server use TCP Sockets.
 
-## Compiling and Testing
+### Compiling and Testing
 **Server:** from the project root directory, open the terminal and run the following comands:
       
       mkdir bin
